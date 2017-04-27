@@ -6,6 +6,5 @@
   <project name="training-scripts" path="training-scripts"/>
   <project name="training-materials" path="training-materials"/>
   <project name="users/thomas-petazzoni/buildroot" path="buildroot"/>
-  <project name="users/maxime-ripard/linux" path="maxime-ripard/linux"/>
 </manifest>
 
