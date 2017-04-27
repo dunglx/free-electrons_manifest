@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote fetch="http://git.free-electrons.com/" name="free-electrons" review="free-electrons.com"/>
+  <default remote="free-electrons" revision="master"/>
+  <project name="training-scripts" path="training-scripts"/>
+  <project name="training-materials" path="training-materials"/>
+  <project name="users/thomas-petazzoni/buildroot" path="buildroot"/>
+  <project name="users/maxime-ripard/linux" path="maxime-ripard/linux"/>
+</manifest>
+
